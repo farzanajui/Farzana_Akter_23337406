@@ -1,0 +1,10 @@
+me: What is the main purpose of the generate_weather_response() function?
+ai: 
+me: How does the function handle cases where weather_data does not contain a forecast?
+
+
+me: Why does the function check if days_ahead is greater than or equal to the number of forecast days?
+
+me: What kind of data visualization does the function produce for temperature and precipitation attributes?
+
+me: What is the return type of this function and why does it return a tuple (text, figure)?
